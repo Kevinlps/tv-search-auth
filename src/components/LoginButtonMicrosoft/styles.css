@@ -1,0 +1,29 @@
+#login-button3 {
+    display: block;
+    width: 300px;
+    margin: 50px auto;
+    border: none;
+    border-radius: 10px;
+    background-color: #fde3a7;
+    padding: 10px 0;
+    cursor: pointer;
+    
+}
+#login-button3:hover {
+    border-bottom: 4px solid white;
+  }
+  
+
+#login-button3 * {
+    vertical-align: middle;
+}
+
+#login-button3 img {
+    width: 24px;
+    margin-right: 10px;
+}
+
+#login-button3 span {
+    font-size: 120%;
+    font-family: 'bold';
+}
